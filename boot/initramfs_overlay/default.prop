@@ -1,0 +1,10 @@
+ro.secure=0
+security.perf_harden=1
+ro.adb.secure=0
+ro.allow.mock.location=0
+ro.debuggable=1
+ro.bootimage.build.date=Fri Nov 27 12:38:03 JST 2020
+ro.bootimage.build.date.utc=1606448283
+ro.bootimage.build.fingerprint=Pixela/tennouji/tennouji:8.0.0/OPR6.170623.013/1014:user/release-keys
+persist.sys.usb.config=adb
+service.adb.tcp.port=5555
